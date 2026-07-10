@@ -57,3 +57,9 @@ calculateur-investissement/
 - CSS3
 - JavaScript vanilla (aucune dépendance)
 
+
+
+
+## 🌐 Demo en ligne
+👉 [lopere008.github.io/calculateur-investissement](https://lopere008.github.io/calculateur-investissement/)
+
